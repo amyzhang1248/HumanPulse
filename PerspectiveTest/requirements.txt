@@ -1,0 +1,16 @@
+openai
+pandas
+python-dotenv
+requests
+beautifulsoup4
+nltk
+pytubefix
+langchain
+langchain-openai
+pinecone-client
+torch
+transformers
+sentence-transformers
+numpy
+faiss-cpu
+tqdm
