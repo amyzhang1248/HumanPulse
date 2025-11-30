@@ -217,9 +217,3 @@ print("Generic question top-1 accuracy:", correct / total)
 ---
 
 The pipeline provides a reproducible methodology for evaluating question-context alignment and analyzing which question types and perspective styles produce the strongest retrieval performance.
-
----
-)
-
----
-Just let me know.
